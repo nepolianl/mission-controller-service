@@ -169,6 +169,7 @@ Output:
 
 The repository URL is specified as below:
 ```
+git clone git@github.com:nepolianl/mission-controller-service.git
 ```
 
 You can use the above repository URL to clone this project and setup it up local system by following the setup instructions.
